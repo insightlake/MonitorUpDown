@@ -1,6 +1,6 @@
 # MonitorUpDown
 
-<img style="width:100%;" src="monitor.jpeg">
+<img style="width:100%;" src="images/monitor.jpeg">
 
 Companies employ many tools for website, application and system monitoring. Keeping these resources up and maintaining business continuity is very important.
 
@@ -11,7 +11,7 @@ Monitoring uptime and performance improves customer experience.
 ## Endpoint Monitoring
 InsightLake monitoring solutions monitors the endpoints from different geographic locations. Following types of endpoints get monitored:
 
-<img style="width:100%;" src="monitor-dash.png">
+<img style="width:100%;" src="images/monitor-dash.png">
 
 General - Host (Ping), TCP, UDP
 Email - SMTP monitoring of enterprise email servers. Servers can be POP3, IMAP or SMTP
