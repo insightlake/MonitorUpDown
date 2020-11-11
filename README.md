@@ -11,12 +11,17 @@ Monitoring uptime and performance improves customer experience.
 ## Endpoint Monitoring
 InsightLake monitoring solutions monitors the endpoints from different geographic locations. Following types of endpoints get monitored:
 
-<img style="width:100%;" src="images/monitor-dash.png">
+<img style="width:100%;" src="images/endpoint.png">
 
 General - Host (Ping), TCP, UDP
 Email - SMTP monitoring of enterprise email servers. Servers can be POP3, IMAP or SMTP
 Website - Website performance monitoring
 REST - API monitoring
+
+## Alerts
+InsightLake monitoring solutions responsible for providing all types of alerts releted to monitoring.
+
+<img style="width:100%;" src="images/alerts.png">
 
 ## Website Performance
 Website performance measurement includes the following:
@@ -36,8 +41,6 @@ Response duration trend
 Explore up down events
 Website Analytics
 
-To learn more, check out [http://insightlake.com/dataexplorer.html](http://insightlake.com/dataexplorer.html)
-
 Installation
 ------
 * Download or clone the repository. 
@@ -49,7 +52,7 @@ Installation
 
 License
 ------
-InsightLake Data Explorer is a commercial product but distributed to be used freely. Please contact contact@insightlake.com for details.
+InsightLake Monitor Up Down is a commercial product but distributed to be used freely. Please contact contact@insightlake.com for details.
 
 Getting Help
 ----------
@@ -60,7 +63,3 @@ Slack Channel
 Twitter
 Facebook
 Email: contact@insightlake.com
-
-Page performance
-Download time & size
-Content types
